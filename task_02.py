@@ -1,5 +1,4 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-print "It's amazing how nice people are in the Python development world. Just as with any community, however, it's important to follow certain rules of decorum.
-"
+("""Python syntax is really quite simple to execute. Anyone can do it just by executing the python command on the command line and invoking the interpreter.""")
+print "Hello Student!"
