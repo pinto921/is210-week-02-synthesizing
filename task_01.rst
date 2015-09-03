@@ -106,3 +106,5 @@ Other Details
     I         I@mii.com
     ======   ===============
 
+.. note::
+ this is just a little taste of how great python can be!
