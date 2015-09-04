@@ -3,7 +3,7 @@
 """This is the person who owns a huge place to make sweet treats."""
 
 
-CHARLIE = "Chocolate Factory"
+CHARLIE = "Brown"
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
