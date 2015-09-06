@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Removing errors from Task03"""
 
-CHARLIE = "Chocolate Factory"
+CHARLIE = "Brown"
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
